@@ -30,7 +30,7 @@
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/github-profile-analyzer.git
+   git clone https://github.com/sujal862/ProfileAnalyzer.git
    cd github-profile-analyzer
    ```
 
@@ -72,6 +72,3 @@ This project can be easily deployed on Vercel:
 - `src/lib/` - Utility functions and API wrappers
 - `src/components/ui/` - ShadCN UI components
 
-## 📄 License
-
-MIT
