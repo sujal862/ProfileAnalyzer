@@ -31,7 +31,7 @@
 1. Clone the repository
    ```bash
    git clone https://github.com/sujal862/ProfileAnalyzer.git
-   cd github-profile-analyzer
+   cd ProfileAnalyzer
    ```
 
 2. Install dependencies
