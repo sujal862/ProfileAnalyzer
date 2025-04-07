@@ -9,7 +9,6 @@
 - ShadCN UI for components
 - Axios for GitHub API calls
 - Recharts for data visualization
-- Tailwind-based animations
 
 ## ✨ Features
 
